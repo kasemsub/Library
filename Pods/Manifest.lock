@@ -1,0 +1,16 @@
+PODS:
+  - SimpleAlert (3.1.1)
+
+DEPENDENCIES:
+  - SimpleAlert
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - SimpleAlert
+
+SPEC CHECKSUMS:
+  SimpleAlert: 2da6444df5175949fcc280d45c3bbffe68255c09
+
+PODFILE CHECKSUM: 08139a519964b0c5564c36a64121706e899b8e93
+
+COCOAPODS: 1.6.1
